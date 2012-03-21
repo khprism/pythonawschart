@@ -1,4 +1,4 @@
-from pyawschart import AWSChart
+from pythonawschart import AWSChart
 
 
 CHART_CLASSES = []
